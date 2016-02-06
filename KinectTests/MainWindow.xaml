@@ -1,0 +1,15 @@
+﻿<Window x:Class="KinectTests.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="800" Width="600">
+    <Grid>
+        <TextBox x:Name="LEFT" HorizontalAlignment="Left" Height="50" Margin="31,112,0,0" TextWrapping="Wrap" Text="Textbox" VerticalAlignment="Top" Width="177" FontSize="36"/>
+        <Button x:Name="exit" Content="Exit" HorizontalAlignment="Left" Height="42" Margin="427,267,0,0" VerticalAlignment="Top" Width="80" Click="clickExit"/>
+        <TextBox x:Name="RIGHT" HorizontalAlignment="Left" Height="50" Margin="307,112,0,0" TextWrapping="Wrap" Text="Textbox" VerticalAlignment="Top" Width="177" FontSize="36"/>
+        <TextBox x:Name="LXpos" HorizontalAlignment="Left" Height="61" Margin="31,185,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="79" FontSize="30"/>
+        <TextBox x:Name="LYpos" HorizontalAlignment="Left" Height="61" Margin="129,185,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="79" FontSize="30"/>
+        <TextBox x:Name="RXpos" HorizontalAlignment="Left" Height="61" Margin="307,185,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="79" FontSize="30"/>
+        <TextBox x:Name="RYpos" HorizontalAlignment="Left" Height="61" Margin="405,185,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="79" FontSize="30"/>
+
+    </Grid>
+</Window>

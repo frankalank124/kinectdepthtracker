@@ -1,0 +1,15 @@
+c:\users\frankie\documents\visual studio 2013\Projects\KinectTests\KinectTests\bin\Debug\KinectTests.exe.config
+c:\users\frankie\documents\visual studio 2013\Projects\KinectTests\KinectTests\bin\Debug\KinectTests.exe
+c:\users\frankie\documents\visual studio 2013\Projects\KinectTests\KinectTests\bin\Debug\KinectTests.pdb
+c:\users\frankie\documents\visual studio 2013\Projects\KinectTests\KinectTests\bin\Debug\Microsoft.Kinect.dll
+c:\users\frankie\documents\visual studio 2013\Projects\KinectTests\KinectTests\bin\Debug\Microsoft.Kinect.xml
+c:\users\frankie\documents\visual studio 2013\Projects\KinectTests\KinectTests\obj\Debug\KinectTests.csprojResolveAssemblyReference.cache
+c:\users\frankie\documents\visual studio 2013\Projects\KinectTests\KinectTests\obj\Debug\MainWindow.baml
+c:\users\frankie\documents\visual studio 2013\Projects\KinectTests\KinectTests\obj\Debug\MainWindow.g.cs
+c:\users\frankie\documents\visual studio 2013\Projects\KinectTests\KinectTests\obj\Debug\App.g.cs
+c:\users\frankie\documents\visual studio 2013\Projects\KinectTests\KinectTests\obj\Debug\KinectTests_MarkupCompile.cache
+c:\users\frankie\documents\visual studio 2013\Projects\KinectTests\KinectTests\obj\Debug\KinectTests.g.resources
+c:\users\frankie\documents\visual studio 2013\Projects\KinectTests\KinectTests\obj\Debug\KinectTests.Properties.Resources.resources
+c:\users\frankie\documents\visual studio 2013\Projects\KinectTests\KinectTests\obj\Debug\KinectTests.csproj.GenerateResource.Cache
+c:\users\frankie\documents\visual studio 2013\Projects\KinectTests\KinectTests\obj\Debug\KinectTests.exe
+c:\users\frankie\documents\visual studio 2013\Projects\KinectTests\KinectTests\obj\Debug\KinectTests.pdb
